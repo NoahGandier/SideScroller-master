@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ScrollerWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=ScrollerWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ScrollerWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ prepareWorld()
+comment2.text=\r\n\ prepareWorld\ adds\ objects\ to\ world\ to\ prepare\ the\ game\ for\ use\r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Add\ an\ act\ method\ here\ that\ will\ handle\ adding\ platforms\ to\ the\ right\ side\r\n\ of\ the\ world\ so\ that\ the\ hero\ doesn't\ run\ out\ of\ platform\ to\ run\ on.\ This\r\n\ method\ will\ also\ add\ Enemies\ to\ the\ world\ 0.67%\ of\ the\ time.\ The\ last\ thing\r\n\ the\ act\ method\ will\ need\ is\ a\ method\ call\ to\ the\ displayScore\ method\r\n
+comment4.params=
+comment4.target=void\ gameOver()
+comment5.params=
+comment5.target=void\ displayScore()
+comment6.params=
+comment6.target=void\ addToScore()
+numComments=7

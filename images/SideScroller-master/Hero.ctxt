@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Hero
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Hero\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Hero()
+comment1.text=\r\n\ Create\ constructor\ to\ scale\ the\ original\ and\ jumping\ images,\ mirror\ the\ \r\n\ original\ image\ horizontally,\ and\ set\ the\ image\ of\ the\ hero\ to\ the\ original\r\n\ variable\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Hero\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ movement()
+comment3.text=\r\n\ Add\ movement\ method\ here\ that\ will\ handle\ the\ movement\ right,\ left,\ and\ up\r\n\ for\ the\ Hero\r\n
+comment4.params=
+comment4.target=void\ fall()
+comment5.params=
+comment5.target=void\ checkCollision()
+comment5.text=\r\n\ Add\ checkCollision\ method\ here\ that\ will\ check\ if\ we've\ landed\ on\ the\ top\r\n\ of\ an\ Enemy,\ which\ will\ increase\ the\ score;\ touched\ an\ Enemy\ otherwise,\ which\r\n\ will\ have\ us\ lose\ the\ game;\ touched\ a\ platform\ which\ will\ allow\ us\ to\ jump\ again;\r\n\ or\ fall\r\n
+numComments=6

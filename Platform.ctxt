@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Platform
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Platform\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Platform()
+comment1.text=\r\n\ Platform\ will\ scale\ the\ image\ and\ display\ a\ picture\ for\ the\ class\r\n\ @param\ There\ is\ no\ paramters\r\n\ @return\ a\ platform\ is\ returned\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ act\ handles\ the\ actions\ must\ be\ taken\ everytime\ the\ program\ is\ run\ \r\n\ @param\ There\ is\ no\ paramters\r\n\ @return\ Nothing\ is\ returned\ \r\n
+numComments=3
